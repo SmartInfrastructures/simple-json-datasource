@@ -34,26 +34,26 @@ npm install load-grunt-tasks
 
 ### Configuration
 
-![The federation monitoring API datasorce configuration](https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/docs/grafanaConfigDatasource.png "The federation monitoring API datasorce configuration")
+![The federation monitoring API datasorce configuration](https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/doc/grafanaConfigDatasource.png "The federation monitoring API datasorce configuration")
 
 ### Dashboard Panels setup
 
 Some FIWARE Federation Monitoring APIs data can be displayed in the Grafana panels.
 Using the Singlestat panels it is possible to show data about the total number of vms (totalVMs), cores (totalCores) or ips (totalIPs).
 
-![Singlestat panels](https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/docs/singleStatPanels.png "Singlestat panels")
+![Singlestat panels](https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/doc/singleStatPanels.png "Singlestat panels")
 
 Using the [Worldmap panel](https://grafana.com/plugins/grafana-worldmap-panel) it is possible to show the regions on a map (map_points).
 
-![Worldmap panel](https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/docs/mapGrafana.png "Worldmap panel")
+![Worldmap panel](https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/doc/mapGrafana.png "Worldmap panel")
 
 Finally, with a Table panel you can show the services' status of regions (servicesTableJSON).
 
-![Table panel](https://github.com/SmartInfrastructures/simple-json-datasource/v/master/docs/grafanaTableStatus.png "Table panel")
+![Table panel](https://github.com/SmartInfrastructures/simple-json-datasource/v/master/doc/grafanaTableStatus.png "Table panel")
 
 Just select the proper metric in the dropdown menu in the panel edit mode.
 
-![Panel setup](https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/docs/singleStat.png "Panel setup")
+![Panel setup](https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/doc/singleStat.png "Panel setup")
 
 ### Changelog
 
