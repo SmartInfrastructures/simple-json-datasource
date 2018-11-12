@@ -24,8 +24,8 @@
       {"name": "GitHub", "url": "https://github.com/SmartInfrastructures/simple-json-datasource"},
       {"name": "MIT License", "url": "https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/LICENSE"}
     ],
-    "version": "1.4.0",
-    "updated": "2018-06-20"
+    "version": "2.0.0",
+    "updated": "2018-11-12"
   },
 
   "dependencies": {
