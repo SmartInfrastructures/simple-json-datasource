@@ -1,5 +1,7 @@
 ## Federation Monitoring APIs Datasource
 
+This Grafana plugin datasource let you display FIWARELab regions’ status and locations.
+
 More documentation about datasource plugins can be found in the [Docs](https://github.com/grafana/grafana/blob/master/docs/sources/plugins/developing/datasources.md).
 
 ## Installation
