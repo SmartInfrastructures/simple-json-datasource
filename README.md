@@ -49,7 +49,7 @@ Using the [Worldmap panel](https://grafana.com/plugins/grafana-worldmap-panel) i
 
 Finally, with a Table panel you can show the services' status of regions (servicesTableJSON).
 
-![Table panel](https://github.com/SmartInfrastructures/simple-json-datasource/v/master/doc/grafanaTableStatus.png "Table panel")
+![Table panel](https://github.com/SmartInfrastructures/simple-json-datasource/blob/master/doc/grafanaTableStatus.png "Table panel")
 
 Just select the proper metric in the dropdown menu in the panel edit mode.
 
