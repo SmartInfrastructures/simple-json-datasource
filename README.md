@@ -18,7 +18,7 @@ sudo service grafana-server restart
 
 ### Dev setup
 
-This plugin requires node 6.10.0 and was developed with Grafana 5.2.2
+This plugin requires node 6.10.0 and was developed with Grafana 5.3.4
 
 ```
 npm install -g yarn
